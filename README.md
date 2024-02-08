@@ -1,5 +1,7 @@
-# Initial: HCC
+# This is the develop branch.
 
-# COURSE CODE: INFO5146
+## Initial: HCC
 
-# YEAR: 2024
+## COURSE CODE: INFO5146
+
+## YEAR: 2024
